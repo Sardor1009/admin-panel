@@ -1,0 +1,36 @@
+.dark * {
+  background-color: black;
+}
+.dark * {
+  color: white;
+}
+
+.dark .aside-links {
+  background: transparent;
+}
+.dark .aside-item *,
+.dark .header img, .dark .aside-item:hover i {
+  background: transparent;
+}
+
+.dark .aside-item:hover span {
+    color: orange;
+}
+
+.dark .header span {
+  color: white;
+}
+.dark .hamburger i {
+    color: white !important;
+}
+
+.dark .header img {
+    background: transparent;
+}
+.dark main span {
+  color: red;
+}
+
+.dark .main-btn button {
+  border: solid white 2px;
+}
